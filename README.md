@@ -4,21 +4,30 @@
 
 ### 🚀 Funcionalidades
 
+<h1>
+Código criado no intuito de demonstrar a criação de uma árvore genealógica, que neste caso foi do anime Naruto, utilizando o Banco de Dados NoSQL baseado em Grafos "Neo4j".
+</h1>
+
+<p align="center">
+Imagem do Banco de Dados Pronto, com todos os Relacionamentos.
+<img src=img.png/>
+</p>
+
 ### 📋 Pré-requisitos
 
 <p>
 Para obter uma cópia local em funcionamento, siga estas etapas simples.
 </p>
 
-1. Execute o comando do cmd para ter acesso a uma cópia local:
+<p>1. Execute o comando do cmd para ter acesso a uma cópia local:</p>
 ```
 git clone https://github.com/DanielJardiim/ArvoreGenealogicaNaruto-Neo4j
 ```
-2. Instale as dependências:
+<p>2. Instale as dependências:</p>
 ```
 python -m pip install -r requirements.txt
 ```
-3. execute o arquivo `main.py`
+<p>3. execute o arquivo `main.py`</p>
 ```
 python main.py
 ```
@@ -26,7 +35,7 @@ python main.py
 ### 🔧 Instalação
 
 <p>
-Utilizaremos o Visual Studio Code para os nossos códigos e desenvolvimento do projeto. E o banco de dados NoSQl relacionado a grafos "Neo4j".
+Utilizaremos o Visual Studio Code para os nossos códigos e desenvolvimento do projeto. E o banco de dados NoSQl baseado a grafos "Neo4j".
 </p>
 
 * [Visual Studio Code](https://code.visualstudio.com/download) 
@@ -43,4 +52,3 @@ Podem encontrar ajuda sobre este projeto no link abaixo do GitHub.
 ### ✒️ Autores
 
 * **Daniel Jardim Nunes**
-
