@@ -4,12 +4,12 @@
 
 ### 🚀 Funcionalidades
 
-<h1>
+<p>
 Código criado no intuito de demonstrar a criação de uma árvore genealógica, que neste caso foi do anime Naruto, utilizando o Banco de Dados NoSQL baseado em Grafos "Neo4j".
-</h1>
+</p>
 
 <p align="center">
-Imagem do Banco de Dados Pronto, com todos os Relacionamentos.
+<h1>Imagem do Banco de Dados Pronto, com todos os Relacionamentos.</h1>
 <img src=img.png/>
 </p>
 
@@ -20,14 +20,19 @@ Para obter uma cópia local em funcionamento, siga estas etapas simples.
 </p>
 
 <p>1. Execute o comando do cmd para ter acesso a uma cópia local:</p>
+
 ```
 git clone https://github.com/DanielJardiim/ArvoreGenealogicaNaruto-Neo4j
 ```
+
 <p>2. Instale as dependências:</p>
+
 ```
 python -m pip install -r requirements.txt
 ```
+
 <p>3. execute o arquivo `main.py`</p>
+
 ```
 python main.py
 ```
