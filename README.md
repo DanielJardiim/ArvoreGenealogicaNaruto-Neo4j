@@ -9,7 +9,7 @@ Código criado no intuito de demonstrar a criação de uma árvore genealógica,
 </p>
 
 <p align="center">
-<h1>Imagem do Banco de Dados Pronto, com todos os Relacionamentos.</h1>
+<h1>Imagem do Banco de Dados, com todos os Relacionamentos.</h1>
 <img src=img.png/>
 </p>
 
