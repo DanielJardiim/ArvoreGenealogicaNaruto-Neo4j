@@ -104,6 +104,7 @@ while 1:
 
     elif option == '4':
         print("THANK YOU, SEE YOU LATER :)")
+        n.delete()
         divider()
         break
 
