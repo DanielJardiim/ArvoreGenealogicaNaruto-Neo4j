@@ -10,17 +10,17 @@
 Para obter uma cópia local em funcionamento, siga estas etapas simples.
 </p>
 1. Execute o comando do cmd para ter acesso a uma cópia local:
-    ```sh
-    git clone https://github.com/DanielJardiim/ArvoreGenealogicaNaruto-Neo4j.git
-    ```
+```
+git clone https://github.com/DanielJardiim/ArvoreGenealogicaNaruto-Neo4j
+```
 2. Instale as dependências:
-    ```sh
-    python -m pip install -r requirements.txt
-    ```
+```
+python -m pip install -r requirements.txt
+```
 3. execute o arquivo `main.py`
-    ```sh
-    python main.py
-    ```
+```
+python main.py
+```
 
 ### 🔧 Instalação
 
