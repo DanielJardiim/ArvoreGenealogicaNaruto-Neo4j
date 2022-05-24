@@ -9,6 +9,7 @@
 <p>
 Para obter uma cópia local em funcionamento, siga estas etapas simples.
 </p>
+
 1. Execute o comando do cmd para ter acesso a uma cópia local:
 ```
 git clone https://github.com/DanielJardiim/ArvoreGenealogicaNaruto-Neo4j
